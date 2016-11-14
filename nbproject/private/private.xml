@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/opt/lampp/htdocs/yii2-app-basic/views/enquiry/index.php</file>
+            <file>file:/opt/lampp/htdocs/yii2-app-basic/models/User.php</file>
+            <file>file:/opt/lampp/htdocs/yii2-app-basic/controllers/SiteController.php</file>
+            <file>file:/opt/lampp/htdocs/yii2-app-basic/views/site/contact.php</file>
+            <file>file:/opt/lampp/htdocs/yii2-app-basic/views/enquiry/_search.php</file>
+            <file>file:/opt/lampp/htdocs/yii2-app-basic/models/Users.php</file>
+            <file>file:/opt/lampp/htdocs/yii2-app-basic/views/site/register.php</file>
+            <file>file:/opt/lampp/htdocs/yii2-app-basic/models/Enquiry.php</file>
+            <file>file:/opt/lampp/htdocs/yii2-app-basic/config/db.php</file>
+            <file>file:/opt/lampp/htdocs/yii2-app-basic/views/enquiry/create.php</file>
+            <file>file:/opt/lampp/htdocs/yii2-app-basic/models/LoginForm.php</file>
+            <file>file:/opt/lampp/htdocs/yii2-app-basic/views/site/login.php</file>
+            <file>file:/opt/lampp/htdocs/yii2-app-basic/views/enquiry/_form.php</file>
+            <file>file:/opt/lampp/htdocs/yii2-app-basic/models/EnquirySearch.php</file>
+        </group>
+    </open-files>
+</project-private>
